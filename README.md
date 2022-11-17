@@ -11,7 +11,7 @@
 🌱 Learning all about Web Dev.<br>
 🤔 I’m looking for help with building responsive websites.<br>
 💬 Ping me about Development, Graphic Design, Branding.<br>
-📫 How to reach me:rvyknt@gmail.com,&nbsp;[Twitter](https://mobile.twitter.com/rvyknt), [LinkedIn](https://www.linkedin.com/in/rvyknt/)
+📫 How to reach me:rvyknt@gmail.com,&nbsp;[Twitter](https://twitter.com/rvyknt), [LinkedIn](https://www.linkedin.com/in/rvyknt/)
 
 <br><br>
 
