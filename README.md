@@ -6,7 +6,7 @@
 
 
 <b>BIO</b><br>
- I'm a Software Engineer based in New Delhi, India.<br>
+ I'm a Python Engineer based in New Delhi, India.<br>
 ⚙️ I use daily: HTML, CSS, Javascript, Photoshop, Illustrator<br>
 🌱 Learning all about Web Dev.<br>
 🤔 I’m looking for help with building responsive websites.<br>
