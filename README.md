@@ -65,7 +65,6 @@ if '__repo__' == '__helpful__':
 <p>
     <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML">
     <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS">
-    <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&amp;style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="BootStrap">
     <img src="https://img.shields.io/badge/django%20-%20092E20.svg?&amp;style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django">
 </p>
 <p>
