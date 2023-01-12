@@ -12,7 +12,7 @@
 
 <!--Social Channel-->
 <p align="center">
-    <a href="https://www.linkedin.com/">
+    <a href="https://www.linkedin.com/in/rvyknt/">
         <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin">
     </a>
     <a href="https://twitter.com/Rvyknt">
