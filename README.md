@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://codeperfectplus.github.io/">About Me</a></h1>
+<!-- <h1 align="center"><a href="https://codeperfectplus.github.io/">About Me</a></h1> -->
 
 <p align="center">
     
@@ -15,13 +15,12 @@
     <a href="https://www.linkedin.com/">
         <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin">
     </a>
-    <a href="https://www.linkedin.com/">
+    <a href="https://twitter.com/Rvyknt">
         <img src="https://img.shields.io/badge/twitter%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter">
     </a>
     <a>
         <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube">
-    </a>
-    
+    </a>  
 </p>
 
 ```python
