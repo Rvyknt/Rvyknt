@@ -18,9 +18,12 @@
     <a href="https://twitter.com/Rvyknt">
         <img src="https://img.shields.io/badge/twitter%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter">
     </a>
-    <a>
+    <a href="https://www.youtube.com/">
         <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube">
-    </a>  
+    </a>
+    <a href="https://www.codepen.com/">
+        <img src="https://img.shields.io/badge/codepen-%23121011.svg?&amp;style=for-the-badge&amp;logo=codepen&amp;logoColor=white" alt="Codepen">
+    </a>
 </p>
 
 ```python
